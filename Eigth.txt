@@ -1,1 +1,1 @@
-This is the Sixth Document for Practice of Publishing Local Repository on GitHub
+This is the Sixth Document for Practice of Publishing Local Repository on GitHub Remote Repository
